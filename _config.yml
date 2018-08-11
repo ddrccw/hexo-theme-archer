@@ -1,16 +1,16 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/ddrccw.png
 # author name
-author: fi3ework
+author: ddrccw
 # signature
-signature: witness me
+signature: Breadth of knowledge is a by-product of deep research
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: ddrccw@gmail.com
+  github: //github.com/ddrccw
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
+  # wechat: /assets/example_qr.png
   qq: 
   weibo: 
   zhihu: 
@@ -23,25 +23,24 @@ social:
   juejin: 
   v2ex: 
   bilibili: 
-  linkedin: 
+  linkedin: //www.linkedin.com/in/%E8%AF%9A-%E9%99%88-a93375b3/
   others: 
-  rss: 
+  rss: /atom.xml
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
-  friendC: 
+  Lontoken: //www.lontoken.com
+  右席的搬砖日记: //www.cppblog.com/pwq1989
 about:
   enable: true
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site
-SEO_title: fi3ework's Studio
+SEO_title: ddrccw's library
 # main title
-main_title: fi3ework's Studio.
+main_title: ddrccw's library
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: Breadth of knowledge is a by-product of deep research
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
@@ -66,7 +65,7 @@ comment:
   # Livere  site: https://livere.com/
   livere_uid: 
   # Disqus  site: https://disqus.com/
-  disqus_shortname: 
+  disqus_shortname: ddrccw
   # Changyan  site: http://changyan.kuaizhan.com/
   changyan_appid: 
   changyan_conf: 
@@ -84,7 +83,7 @@ comment:
 
 # ========== Analytics ========== #
 # enable Busuanzi analytics
-busuanzi: true
+busuanzi: false
 # fill in pv or uv
 busuanzi_pv_or_uv: 'pv'
 # custom analytic slogan, '${count}' is the analytic number, DO NOT modify it.
@@ -92,7 +91,7 @@ busuanzi_slug: 'PV: ${count} :)'
 # Baidu analytics
 baidu_analytics: 
 # Google analytics
-google_analytics: 
+google_analytics: UA-34556823-1
 # CNZZ analytics
 CNZZ_analytics: 
 
